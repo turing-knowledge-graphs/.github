@@ -3,7 +3,7 @@
 This interest group will facilitate research and innovation in a critical area of data science and AI.
 
 - [Meet-ups](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/README.md) repository
-- [Members](https://github.com/turing-knowledge-graphs/members) repository
+- [Members](https://github.com/turing-knowledge-graphs/members/blob/main/README.md) repository
 - [Teaching](https://github.com/turing-knowledge-graphs/teaching/blob/main/README.md) repository
 
 Please register via the main [Web at The Turing](https://www.turing.ac.uk/research/interest-groups/knowledge-graphs) if you would 
