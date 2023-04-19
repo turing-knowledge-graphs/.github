@@ -12,5 +12,3 @@ Please register via the main [Web at The Turing](https://www.turing.ac.uk/resear
 like to be added to the mailing list and the group's slack channel.
 
 Contact the organisers at **knowledgegraphs_tig [at] turing.ac.uk**
-
-Mailing list (via [registration](https://www.turing.ac.uk/research/interest-groups/knowledge-graphs)): **knowledgegraphsig [at] turing.ac.uk**
