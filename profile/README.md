@@ -1,5 +1,7 @@
 ## Repositories of the Interest Group on Knowledge Graphs at The Alan Turing Institute
 
+New Space: [https://github.com/uk-knowledge-graphs/](https://github.com/uk-knowledge-graphs/)
+
 This interest group will facilitate research and innovation in a critical area of data science and AI.
 
 - [Meet-ups](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/README.md) repository
