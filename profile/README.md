@@ -10,7 +10,6 @@ This interest group will facilitate research and innovation in a critical area o
 - [Resources](https://github.com/turing-knowledge-graphs/resources/blob/main/README.md) repository
 
 
-Please register via the main [Web at The Turing](https://www.turing.ac.uk/research/interest-groups/knowledge-graphs) if you would 
-like to be added to the mailing list and the group's slack channel.
+Old [Web at The Turing](https://www.turing.ac.uk/research/interest-groups/knowledge-graphs).
 
-Contact the organisers at **knowledgegraphs_tig [at] turing.ac.uk**
+
